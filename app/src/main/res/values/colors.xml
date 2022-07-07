@@ -14,4 +14,8 @@
     <color name="sopt_purple">#8040FF</color>
     <color name="sopt_light_purple">#BC9AFF</color>
     <color name="sopt_white">#FAF8FF</color>
+
+    <color name="colorPrimary">#00AC28</color>
+    <color name="colorPrimaryDark">#09d639</color>
+    <color name="colorAccent">#03DAC5</color>
 </resources>
